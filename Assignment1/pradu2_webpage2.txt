@@ -1,0 +1,82 @@
+<HTML>
+
+<HEAD>
+
+<TITLE>PR ELYSIUM</TITLE>
+
+</HEAD>
+
+<BODY>
+
+<CENTER>
+
+<H1><U>ELYSIUM</U></H1>
+
+<BR>
+
+<BR>
+
+To get back to main page and read a summary of this film <a href="http://publish.uwo.ca/~pradu2/pradu2_webpage1.html#bookmark summary">click this summary bookmark</a>
+
+</CENTER>
+
+<H4>The main cast of this movie included:</H4>
+<UL type=square>
+<LI>Matt Damon
+<LI>Jodie Foster
+<LI>Sharlto Copley
+<LI>Alice Braga
+<LI>Diago Luna
+<LI>Wagner Moura
+<LI>William Fletcher
+<LI>Brandon Auret
+<LI>Josh Blacker
+<LI>Emma Tremblay
+</UL>
+
+<CENTER>
+
+<BR>
+
+<H4> The locations filmed in this movie included:</H4>
+
+<table>
+</table><table border="3">
+
+<tbody><tr>
+<td><b> Country </b></td>
+<td><b> Province / State </b></td>
+<td><b> City </b></td>
+</tr>
+
+<tr>
+<td> Canada </td>
+<td> British Columbia </td>
+<td> Bear Creek Park </td>
+</tr>
+
+<tr>
+<td> Canada </td>
+<td> British Columbia </td>
+<td> Vancouver </td>
+</tr>
+
+<tr>
+<td> Mexico </td>
+<td> Distrito Federal </td>
+<td> Mexico City </td>
+</tr>
+
+<tr>
+<td> Mexico </td>
+<td> Nayarit </td>
+<td> Punta de Mita </td>
+</tr>
+
+</tbody></table>
+
+</CENTER>
+
+</BODY>
+
+<HTML>

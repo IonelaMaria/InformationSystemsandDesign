@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pradu2.xml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="pradu2.xsd">
+
+  <ActuarialSciencesAndBiochemistryAtWestern>
+    <SecondYearCourses>
+      <Subject>Actuarial Science</Subject>
+
+        <SubjectName>
+          <CourseName>Math For Financial Analysis</CourseName>
+          <Section>001</Section>
+          <Component>LEC</Component>
+          <CourseNumber>2053</CourseNumber>
+          <DayTaught>Monday, Wednesday, Friday</DayTaught>
+          <StartTime>11:30am</StartTime>
+          <EndTime>12:30pm</EndTime>
+          <BuildingRoomNumber>SEB-1059</BuildingRoomNumber>
+          <Instructor>Kopp</Instructor>
+          <Note></Note>
+          <Status>Not Full</Status>
+        </SubjectName>
+
+        <SubjectName>
+          <CourseName>Math For Financial Analysis</CourseName>
+          <Section>002</Section>
+          <Component>LEC</Component>
+          <CourseNumber>2053</CourseNumber>
+          <DayTaught>Tuesday</DayTaught>
+          <StartTime>10:30am</StartTime>
+          <EndTime>11:30am</EndTime>
+          <BuildingRoomNumber>SEB-1200</BuildingRoomNumber>
+          <Instructor>Millard</Instructor>
+          <Note></Note>
+          <Status>Not Full</Status>
+        </SubjectName>
+
+        <SubjectName>
+          <CourseName>Math For Financial Analysis</CourseName>
+          <Section>002</Section>
+          <Component>LEC</Component>
+          <CourseNumber>2053</CourseNumber>
+          <DayTaught>Thursday</DayTaught>
+          <StartTime>9:30am</StartTime>
+          <EndTime>11:30am</EndTime>
+          <BuildingRoomNumber>SEB-1200</BuildingRoomNumber>
+          <Instructor>Millard</Instructor>
+          <Note></Note>
+          <Status>Not Full</Status>
+        </SubjectName>
+
+        <SubjectName>
+          <CourseName>Math For Financial Analysis</CourseName>
+          <Section>570</Section>
+          <Component>LEC</Component>
+          <CourseNumber>2053</CourseNumber>
+          <DayTaught>Tuesday</DayTaught>
+          <StartTime>10:30am</StartTime>
+          <EndTime>12:30pm</EndTime>
+          <BuildingRoomNumber>KC-W166</BuildingRoomNumber>
+          <Instructor>Jiang</Instructor>
+          <Note>Restricted to students registered at an affiliated university college</Note>
+          <Status>Full</Status>
+        </SubjectName>
+
+        <SubjectName>
+          <CourseName>Math For Financial Analysis</CourseName>
+          <Section>570</Section>
+          <Component>LEC</Component>
+          <CourseNumber>2053</CourseNumber>
+          <DayTaught>Thursday</DayTaught>
+          <StartTime>11:30am</StartTime>
+          <EndTime>12:30pm</EndTime>
+          <BuildingRoomNumber>KC-SA150</BuildingRoomNumber>
+          <Instructor>Jiang</Instructor>
+          <Note>Restricted to students registered at an affiliated university college</Note>
+          <Status>Full</Status>
+        </SubjectName>
+
+        <SubjectName>
+          <CourseName>Math For Financial Analysis</CourseName>
+          <Section>571</Section>
+          <Component>LEC</Component>
+          <CourseNumber>2053</CourseNumber>
+          <DayTaught>Tuesday</DayTaught>
+          <StartTime>1:30pm</StartTime>
+          <EndTime>2:30pm</EndTime>
+          <BuildingRoomNumber>KC-SA150</BuildingRoomNumber>
+          <Instructor>Jiang</Instructor>
+          <Note>Restricted to students registered at an affiliated university college</Note>
+          <Status>Not Full</Status>
+        </SubjectName>
+
+        <SubjectName>
+          <CourseName>Math For Financial Analysis</CourseName>
+          <Section>571</Section>
+          <Component>LEC</Component>
+          <CourseNumber>2053</CourseNumber>
+          <DayTaught>Thursday</DayTaught>
+          <StartTime>1:30pm</StartTime>
+          <EndTime>3:30pm</EndTime>
+          <BuildingRoomNumber>KC-LH100</BuildingRoomNumber>
+          <Instructor>Jiang</Instructor>
+          <Note>Restricted to students registered at an affiliated university college</Note>
+          <Status>Not Full</Status>
+        </SubjectName>
+
+        <SubjectName>
+          <CourseName>Life Contingencies I</CourseName>
+          <Section>001</Section>
+          <Component>LEC</Component>
+          <CourseNumber>2427B</CourseNumber>
+          <DayTaught>Monday, Wednesday, Friday</DayTaught>
+          <StartTime>12:30pm</StartTime>
+          <EndTime>1:30pm</EndTime>
+          <BuildingRoomNumber>SSC-2032</BuildingRoomNumber>
+          <Instructor>Millard</Instructor>
+          <Note></Note>
+          <Status>Not Full</Status>
+        </SubjectName>
+
+        <SubjectName>
+          <CourseName>Life Contingencies I</CourseName>
+          <Section>002</Section>
+          <Component>TUT</Component>
+          <CourseNumber>2427B</CourseNumber>
+          <DayTaught>Tuesday</DayTaught>
+          <StartTime>2:30pm</StartTime>
+          <EndTime>3:30pm</EndTime>
+          <BuildingRoomNumber>TC-141</BuildingRoomNumber>
+          <Instructor>Millard</Instructor>
+          <Note></Note>
+          <Status>Not Full</Status>
+        </SubjectName>
+
+        <SubjectName>
+          <CourseName>Mathematics Of Finance</CourseName>
+          <Section>001</Section>
+          <Component>LEC</Component>
+          <CourseNumber>2553A</CourseNumber>
+          <DayTaught>Tuesday</DayTaught>
+          <StartTime>8:30am</StartTime>
+          <EndTime>9:30am</EndTime>
+          <BuildingRoomNumber>MC-105B</BuildingRoomNumber>
+          <Instructor></Instructor>
+          <Note></Note>
+          <Status>Not Full</Status>
+        </SubjectName>
+
+        <SubjectName>
+          <CourseName>Mathematics Of Finance</CourseName>
+          <Section>001</Section>
+          <Component>LEC</Component>
+          <CourseNumber>2553A</CourseNumber>
+          <DayTaught>Thursday</DayTaught>
+          <StartTime>8:30am</StartTime>
+          <EndTime>10:30am</EndTime>
+          <BuildingRoomNumber>MC-105B</BuildingRoomNumber>
+          <Instructor></Instructor>
+          <Note></Note>
+          <Status>Not Full</Status>
+        </SubjectName>
+
+        <SubjectName>
+          <CourseName>Mathematics Of Finance</CourseName>
+          <Section>002</Section>
+          <Component>TUT</Component>
+          <CourseNumber>2553A</CourseNumber>
+          <DayTaught>Monday</DayTaught>
+          <StartTime>5:30pm</StartTime>
+          <EndTime>6:30pm</EndTime>
+          <BuildingRoomNumber>WSC-55</BuildingRoomNumber>
+          <Instructor></Instructor>
+          <Note></Note>
+          <Status>Not Full</Status>
+        </SubjectName>
+    </SecondYearCourses>
+
+    <SecondYearCourses>
+      <Subject>Biochemistry</Subject>
+
+        <SubjectName>
+          <CourseName>Biochemistry And Molecular Biology</CourseName>
+          <Section>001</Section>
+          <Component>LEC</Component>
+          <CourseNumber>2280A</CourseNumber>
+          <DayTaught>Monday, Wednesday, Friday</DayTaught>
+          <StartTime>2:30pm</StartTime>
+          <EndTime>3:30pm</EndTime>
+          <BuildingRoomNumber>NCB-101</BuildingRoomNumber>
+          <Instructor>McLachlin Brandl Deroo</Instructor>
+          <Note>Priority to modules in biology, all the basic medical sciences, chemistry, biochem, and chem, BHSC, BSC kin, bioinformatics</Note>
+          <Status>Not Full</Status>
+        </SubjectName>
+
+        <SubjectName>
+          <CourseName>Biochemistry And Molecular Biology</CourseName>
+          <Section>002</Section>
+          <Component>LEC</Component>
+          <CourseNumber>2280A</CourseNumber>
+          <DayTaught>Tuesday, Thursday, Friday</DayTaught>
+          <StartTime>3:30pm</StartTime>
+          <EndTime>4:30pm</EndTime>
+          <BuildingRoomNumber>NCB-101</BuildingRoomNumber>
+          <Instructor>McLachlin Brandl Deroo</Instructor>
+          <Note>Priority to modules in biology, all the basic medical sciences, chemistry, biochem, and chem, BHSC, BSC kin, bioinformatics</Note>
+          <Status>Not Full</Status>
+        </SubjectName>
+
+        <SubjectName>
+          <CourseName>Biochemistry And Molecular Biology</CourseName>
+          <Section>001</Section>
+          <Component>LEC</Component>
+          <CourseNumber>2288A</CourseNumber>
+          <DayTaught>Monday, Wednesday, Friday</DayTaught>
+          <StartTime>2:30pm</StartTime>
+          <EndTime>3:30pm</EndTime>
+          <BuildingRoomNumber>NCB-101</BuildingRoomNumber>
+          <Instructor>McLachlin Brandl Deroo</Instructor>
+          <Note>Priority to modules in biology, all the basic medical sciences, chemistry, biochem, and chem, BHSC, BSC kin, bioinformatics</Note>
+          <Status>Not Full</Status>
+        </SubjectName>
+
+        <SubjectName>
+          <CourseName>Biochemistry And Molecular Biology</CourseName>
+          <Section>002</Section>
+          <Component>LEC</Component>
+          <CourseNumber>2288A</CourseNumber>
+          <DayTaught>Tuesday, Thursday, Friday</DayTaught>
+          <StartTime>3:30pm</StartTime>
+          <EndTime>4:30pm</EndTime>
+          <BuildingRoomNumber>NCB-101</BuildingRoomNumber>
+          <Instructor>McLachlin Brandl Deroo</Instructor>
+          <Note>Priority to modules in biology, all the basic medical sciences, chemistry, biochem, and chem, BHSC, BSC kin, bioinformatics</Note>
+          <Status>Not Full</Status>
+      </SubjectName>
+      
+    </SecondYearCourses>
+  </ActuarialSciencesAndBiochemistryAtWestern>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

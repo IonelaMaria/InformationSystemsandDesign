@@ -1,0 +1,68 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+<xsd:element name="ActuarialSciencesAndBiochemistryAtWestern">
+<xsd:complexType> 	
+<xsd:sequence>
+	
+	<xsd:element maxOccurs="unbounded" name="Subjects">
+	<xsd:complexType>
+	<xsd:sequence>
+	
+		<xsd:element maxOccurs="unbounded" name="Subject">
+		<xsd:complexType>	
+		<xsd:sequence>
+
+			<xsd:element maxOccurs="unbounded" name="CourseSelection">
+			<xsd:complexType>	
+			<xsd:sequence>
+
+				<xsd:element maxOccurs="unbounded" name="CourseName">
+				</xsd:element>
+	
+				<xsd:element minOccurs="0" name="Section">
+				</xsd:element>
+		
+				<xsd:element minOccurs="0" name="Component">
+				</xsd:element>
+		
+				<xsd:element minOccurs="1" name="CourseNumber">
+				</xsd:element>
+
+				<xsd:element minOccurs="0" name="DayTaught">
+				</xsd:element>
+
+				<xsd:element minOccurs="0" name="StartTime">
+				</xsd:element> 
+					
+				<xsd:element minOccurs="0" name="EndTime">
+				</xsd:element>	
+
+				<xsd:element minOccurs="0" name="BuildingRoomNumber">
+				</xsd:element>
+									
+				<xsd:element minOccurs="0" name="Instructor">
+				</xsd:element>
+
+				<xsd:element minOccurs="0" name="Note">
+				</xsd:element> 
+		
+				<xsd:element maxOccurs="1" name="Status">
+				</xsd:element>
+
+			</xsd:sequence> 
+			</xsd:complexType> 
+			</xsd:element>
+
+		</xsd:sequence> 
+		</xsd:complexType> 
+		</xsd:element>
+
+	</xsd:sequence> 
+	</xsd:complexType> 
+	</xsd:element>
+
+</xsd:sequence> 
+</xsd:complexType> 
+</xsd:element>
+											
+</xsd:schema>

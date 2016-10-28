@@ -1,0 +1,121 @@
+<?XML version=“1.0” encoding=“UTF-8” Standalone=“yes”?>
+<rootName xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="pradu2.xsd">
+
+
+<CourseSelection>
+				<CourseName></CourseName>
+				<Section></Section>
+				<Component></Component>
+				<CourseNumber></CourseNumber>
+				<DayTaught></DayTaught>
+				<StartTime></StartTime>
+				<EndTime></EndTime>
+				<BuildingRoomNumber></BuildingRoomNumber>
+				<Instructor></Instructor>
+				<Note></Note>
+				<Status></Status>
+			</CourseSelection>
+
+
+
+<ActuarialSciencesAndBiochemistryAtWestern>
+	<Subjects>
+		<Subject>Actuarial Science</Subject>
+			<CourseSelection>
+				<CourseName>Math For Financial Analysis</CourseName>
+				<Section>001</Section>
+				<Component>LEC</Component>
+				<CourseNumber>2053</CourseNumber>
+				<DayTaught>Monday, Wednesday, Friday</DayTaught>
+				<StartTime>11:30am</StartTime>
+				<EndTime>12:30pm</EndTime>
+				<BuildingRoomNumber>SEB-1059</BuildingRoomNumber>
+				<Instructor>Kopp</Instructor>
+				<Note></Note>
+				<Status>Not Full</Status>
+			</CourseSelection>
+			<CourseSelection>
+				<CourseName>Math For Financial Analysis</CourseName>
+				<Section>002</Section>
+				<Component>LEC</Component>
+				<CourseNumber>2053</CourseNumber>
+				<DayTaught>Tuesday</DayTaught>
+				<StartTime>10:30am</StartTime>
+				<EndTime>11:30am</EndTime>
+				<BuildingRoomNumber>SEB-1200</BuildingRoomNumber>
+				<Instructor>Millard</Instructor>
+				<Note></Note>
+				<Status>Not Full</Status>
+			</CourseSelection>
+			<CourseSelection>
+				<CourseName>Math For Financial Analysis</CourseName>
+				<Section>002</Section>
+				<Component>LEC</Component>
+				<CourseNumber>2053</CourseNumber>
+				<DayTaught>Thursday</DayTaught>
+				<StartTime>9:30am</StartTime>
+				<EndTime>11:30am</EndTime>
+				<BuildingRoomNumber>SEB-1200</BuildingRoomNumber>
+				<Instructor>Millard</Instructor>
+				<Note></Note>
+				<Status>Not Full</Status>
+			</CourseSelection>
+			<CourseSelection>
+				<CourseName>Math For Financial Analysis</CourseName>
+				<Section>570</Section>
+				<Component>LEC</Component>
+				<CourseNumber>2053</CourseNumber>
+				<DayTaught>Tuesday</DayTaught>
+				<StartTime>10:30am</StartTime>
+				<EndTime>12:30pm</EndTime>
+				<BuildingRoomNumber>KC-W166</BuildingRoomNumber>
+				<Instructor>Jiang</Instructor>
+				<Note>Restricted to students registered at an affiliated university college</Note>
+				<Status>Full</Status>
+			</CourseSelection>
+			<CourseSelection>
+				<CourseName>Math For Financial Analysis</CourseName>
+				<Section>570</Section>
+				<Component>LEC</Component>
+				<CourseNumber>2053</CourseNumber>
+				<DayTaught>Thursday</DayTaught>
+				<StartTime>11:30am</StartTime>
+				<EndTime>12:30pm</EndTime>
+				<BuildingRoomNumber>KC-SA150</BuildingRoomNumber>
+				<Instructor>Jiang</Instructor>
+				<Note>Restricted to students registered at an affiliated university college</Note>
+				<Status>Full</Status>
+			</CourseSelection>
+			<CourseSelection>
+				<CourseName>Math For Financial Analysis</CourseName>
+				<Section>571</Section>
+				<Component>LEC</Component>
+				<CourseNumber>2053</CourseNumber>
+				<DayTaught></DayTaught>
+				<StartTime></StartTime>
+				<EndTime></EndTime>
+				<BuildingRoomNumber></BuildingRoomNumber>
+				<Instructor></Instructor>
+				<Note></Note>
+				<Status></Status>
+			</CourseSelection>
+	</Subjects>
+</ActuarialSciencesAndBiochemistryAtWestern> vewvew
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
