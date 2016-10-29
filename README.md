@@ -1,4 +1,5 @@
 # InformationSystemsandDesign
+Computer Science 1032 - Techniques used for determining technological needs of businesses; building and managing systems to meet those needs; development roles of individuals and organizations; planning and management of concepts, personnel and processes; related software tools (spreadsheets, databases).
 
 ## Document and Webpage
 Using a basic text editor create a website that contains two webpages by typing in the HTML tages and webpage context yourself, then publish the webpage via the University of Western Ontario publisher. Then use a basic text editor to create an XML Schema Definition for a document that will store specific course information. One the XML Schema has been defined, create an XML document based on it, that contains the information for the courses listed.
